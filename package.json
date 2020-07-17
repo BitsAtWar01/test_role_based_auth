@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/BitsAtWar01/test_role_based_auth#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
     "consola": "^2.14.0",
     "cors": "^2.8.5",
